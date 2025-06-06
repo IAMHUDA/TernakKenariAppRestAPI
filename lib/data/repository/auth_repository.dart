@@ -1,4 +1,4 @@
-import 'package:canary_farm/service/service_http_client.dart';
+import 'package:canary_farm/services/service_http_client.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 class AuthRepository {
   final ServiceHttpClient _serviceHttpClient;
