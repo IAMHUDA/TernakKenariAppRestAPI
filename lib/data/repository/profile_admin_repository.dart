@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:developer';
 
 import 'package:canary_farm/data/models/request/admin/admin_profile_request.dart';
-import 'package:canary_farm/data/models/response/admin_profile_response_model.dart';
+import 'package:canary_farm/data/models/response/admin/admin_profile_response_model.dart';
 import 'package:canary_farm/services/service_http_client.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
