@@ -1,4 +1,5 @@
 import 'package:bloc/bloc.dart';
+import 'package:canary_farm/data/models/request/auth/login_request_model.dart';
 import 'package:meta/meta.dart';
 
 part 'login_event.dart';
